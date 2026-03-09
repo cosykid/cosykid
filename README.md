@@ -8,4 +8,4 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-  [cosykid.github.io](https://cosykid.github.io)
+  [My profile website](https://cosykid.github.io)
