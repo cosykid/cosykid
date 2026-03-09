@@ -2,10 +2,11 @@
 
   4th year CS @ UNSW · Building [Mite](https://mite.framer.website) · Sydney
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)                                                                                                                                                        
+  ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)                                                                                                                                                     
+  ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)                                                                                                                                                             
+  ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logo=mistral&logoColor=white)                                                                                                                                                        
+  ![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white)                                                                                                                                                                    
+  ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+  
   [My profile website](https://cosykid.github.io)
