@@ -1,6 +1,6 @@
   ## Langkee Hong
 
-  4th year CS @ UNSW · Building [Mite]([[https://github.com/Mite-au/miteApp](https://mite.framer.website)](https://mite.framer.website)) · Sydney
+  4th year CS @ UNSW · Building [Mite](https://mite.framer.website) · Sydney
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
